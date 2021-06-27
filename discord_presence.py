@@ -1,7 +1,6 @@
 from configparser import ConfigParser
 from pypresence import Presence
 from time import sleep
-from PyQt5.QtCore import QThread
 import time
 import random
 import os
